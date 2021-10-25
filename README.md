@@ -1,2 +1,2 @@
-# UnityProyects
-Proyects made in Unity by me
+# UnityProjects
+Projects done in a course of Udemy
